@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Naranja",
+        "description": "Fruta",
+        "code": "123",
+        "price": 400,
+        "status": true,
+        "stock": 50,
+        "category": "Fruta"
+    }
+]
